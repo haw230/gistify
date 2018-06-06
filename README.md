@@ -5,6 +5,9 @@
 ```django-admin startproject gistify``` 
 Creates directory
 
+```python manage.py startapp gistify```
+Creates app
+
 ```python manage.py runserver``` 
 Runs servor
 
@@ -28,3 +31,5 @@ Testing code
 
 ```views.py```
 Takes user requests and responses
+
+Templates not loading solution: https://prnt.sc/jreovt
