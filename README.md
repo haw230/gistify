@@ -1,5 +1,7 @@
 # Gistify
 
+* never touch ```manage.py```
+
 ```django-admin startproject gistify``` 
 Creates directory
 
