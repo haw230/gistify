@@ -9,10 +9,16 @@ Creates directory
 Creates app
 
 ```python manage.py runserver``` 
-Runs servor
+Runs server
+
+```$ python manage.py migrate```
+Creates database tables
 
 ```urls.py```
 URL declarations, like a table of contents(e.g. gmail.com/user). Returns webpage or performs function at request url
+
+```manage.py```
+Command-line utility
 
 ```wsig.py```
 Special web server
