@@ -11,7 +11,7 @@ Creates app
 ```python manage.py runserver``` 
 Runs server
 
-```$ python manage.py migrate```
+```python manage.py migrate```
 Creates database tables
 
 ```urls.py```
