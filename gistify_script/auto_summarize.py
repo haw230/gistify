@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Jun  2 22:01:13 2018
-
-@author: Study Mode
-"""
 
 import requests #downloads webpage
 from lxml import html #formats webpage
